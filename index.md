@@ -27,7 +27,7 @@ Different websites will need different backend functionalities:
 - db solution?
 
 ### Deploy Website:
-- Setup server on Digital Ocean that can run the React App above
+- Setup server on Digital Ocean that can run one or more services, either nodejs or reactjs
 - Write Script for replicating creating/deploying applications on droplets
 
 
