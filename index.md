@@ -11,22 +11,22 @@ A personal sandbox website platform.
 Experience building and deploying a website. Give myself a new avenue for growth and self-expression.
 
 # Describe Project
-## React App with the following: 
+### React App with the following: 
 - Navbar swappable (changable theme per each navbar item being selected)
 
-## Sub sites: 
+### Sub sites: 
 - Oh My Garnish
 - Referral Roulette
 - Website Template
 
-## Backend Concepts
+### Backend Concepts
 Different websites will need different backend functionalities:
 - user authentication - server/server, client/server
 - payment?  
 - microservices vs one backend
 - db solution?
 
-## Deploy Website:
+### Deploy Website:
 - Setup server on Digital Ocean that can run the React App above
 - Write Script for replicating creating/deploying applications on droplets
 
