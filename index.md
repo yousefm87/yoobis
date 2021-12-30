@@ -23,6 +23,8 @@ Experience building and deploying a website. Give myself a new avenue for growth
 Different websites will need different backend functionalities:
 - user authentication - server/server, client/server
 - payment?  
+- microservices vs one backend
+- db solution?
 
 ## Deploy Website:
 - Setup server on Digital Ocean that can run the React App above
